@@ -2,7 +2,6 @@ C:\Users\diogo\Desktop\FormFindingAPP\FormFindingTests\FormFinding\bin\Debug\For
 C:\Users\diogo\Desktop\FormFindingAPP\FormFindingTests\FormFinding\bin\Debug\FormFinding.exe
 C:\Users\diogo\Desktop\FormFindingAPP\FormFindingTests\FormFinding\bin\Debug\FormFinding.pdb
 C:\Users\diogo\Desktop\FormFindingAPP\FormFindingTests\FormFinding\obj\Debug\FormFinding.csprojResolveAssemblyReference.cache
-C:\Users\diogo\Desktop\FormFindingAPP\FormFindingTests\FormFinding\obj\Debug\Interop.KernelOM.dll
 C:\Users\diogo\Desktop\FormFindingAPP\FormFindingTests\FormFinding\obj\Debug\Interop.RobotOM.dll
 C:\Users\diogo\Desktop\FormFindingAPP\FormFindingTests\FormFinding\obj\Debug\FormFinding.csproj.ResolveComReference.cache
 C:\Users\diogo\Desktop\FormFindingAPP\FormFindingTests\FormFinding\obj\Debug\FormFinding.Form1.resources
@@ -11,3 +10,4 @@ C:\Users\diogo\Desktop\FormFindingAPP\FormFindingTests\FormFinding\obj\Debug\For
 C:\Users\diogo\Desktop\FormFindingAPP\FormFindingTests\FormFinding\obj\Debug\FormFinding.csproj.CoreCompileInputs.cache
 C:\Users\diogo\Desktop\FormFindingAPP\FormFindingTests\FormFinding\obj\Debug\FormFinding.exe
 C:\Users\diogo\Desktop\FormFindingAPP\FormFindingTests\FormFinding\obj\Debug\FormFinding.pdb
+C:\Users\diogo\Desktop\FormFindingAPP\FormFindingTests\FormFinding\obj\Debug\Interop.KernelOM.dll
